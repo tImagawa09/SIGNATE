@@ -1,0 +1,1 @@
+# signate_DefaultRiskReduction_forBegginer
