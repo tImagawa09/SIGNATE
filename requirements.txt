@@ -5,6 +5,7 @@ matplotlib
 seaborn
 lightgbm
 xgboost
+catboost
 scikit-learn
 mecab-python3
 jupyterlab
