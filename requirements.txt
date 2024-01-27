@@ -24,3 +24,4 @@ librosa
 kaggle
 pandas_profiling
 optuna
+pycaret
